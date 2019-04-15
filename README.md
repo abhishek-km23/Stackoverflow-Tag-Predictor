@@ -20,3 +20,6 @@ Calculate metrics globally by counting the total true positives, false negatives
 
 'macro f1 score':
 Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account. 
+
+
+NB: This project was done as a part of assignment for machine Learning course taken at appliedaicourse.com/
